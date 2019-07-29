@@ -1,0 +1,10 @@
+{
+	"paths": {
+		"shared_folder": "/Users/zaniacmacbook1/Google Drive",
+		"mod_folder": "/Users/zaniacmacbook1/Google Drive/Minecraft Mods",
+		"minecraftedu": "/Users/zaniacmacbook1/Library/Application Support/minecraftedu",
+		"client_mods": "/Users/zaniacmacbook1/Library/Application Support/minecraftedu/minecraft/mods/1.7.10",
+		"server_mods": "/Users/zaniacmacbook1/Library/Application Support/minecraftedu/servertool/server/mods/1.7.10",
+		"launcher_settings": "/Users/zaniacmacbook1/Library/Application Support/minecraftedu/launcher_res/settings"
+	}
+}
